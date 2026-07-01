@@ -53,7 +53,7 @@ As `drynessLevel` passes certain thresholds, your ocular control degrades progre
 
 ---
 
-## ─── PROPOSED INTEGRATION PLAN ──────────────────────────────────────
+## ─── PROPOSED INTEGRATION PLAN ──────────────────────────────
 
 ```mermaid
 graph TD
@@ -72,7 +72,7 @@ graph TD
 
 ---
 
-## ─── CONFIGURATION PARAMETERS ───────────────────────────────────────
+## ─── CONFIGURATION PARAMETERS ───────────────────────────────
 
 | Config Entry | Default Value | Description |
 | :--- | :--- | :--- |
