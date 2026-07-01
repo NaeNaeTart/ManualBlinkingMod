@@ -4,7 +4,7 @@ An immersive, high-stakes physiological simulation mod for **Casualties Unknown*
 
 ---
 
-## ─── CORE MECHANICS ───────────────────────────────────────
+## ─── CORE MECHANICS ─────────────────────────────────
 
 ### 1. The Dryness Loop (`drynessLevel`)
 *   Your eyes dry out naturally over time.
